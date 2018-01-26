@@ -1,8 +1,8 @@
 ﻿namespace Zebble.Device
 {
+    using AVFoundation;
     using System;
     using System.Threading.Tasks;
-    using AVFoundation;
 
     public static class Torch
     {

@@ -1,9 +1,9 @@
 ﻿namespace Zebble.Device
 {
-    using System;
-    using System.Threading.Tasks;
     using Android.Graphics;
     using Android.Hardware;
+    using System;
+    using System.Threading.Tasks;
     using AndroidCamera = Android.Hardware.Camera;
 
     public static class Torch
