@@ -5,6 +5,7 @@
     using System;
     using System.Threading.Tasks;
     using AndroidCamera = Android.Hardware.Camera;
+    using Olive;
 
     public static class Torch
     {

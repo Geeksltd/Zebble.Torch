@@ -1,4 +1,4 @@
-[logo]: https://raw.githubusercontent.com/Geeksltd/Zebble.Torch/master/Shared/NuGet/Icon.png "Zebble.Torch"
+﻿[logo]: https://raw.githubusercontent.com/Geeksltd/Zebble.Torch/master/icon.png "Zebble.Torch"
 
 
 ## Zebble.Torch
