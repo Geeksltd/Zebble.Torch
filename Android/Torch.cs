@@ -1,7 +1,6 @@
 ﻿namespace Zebble.Device
 {
     using Android.Graphics;
-    using Android.Hardware;
     using System;
     using System.Threading.Tasks;
     using AndroidCamera = Android.Hardware.Camera;
